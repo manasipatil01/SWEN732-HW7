@@ -10,4 +10,4 @@ The International Student Support System is a system developed to assist inter
 * InternationalS is an element interface representing an international student in the support system having methods to get the details of the international student and accept a support visitor for providing support.
 * GraduateStudent is concrete element representing graduate international students in the support system which implements InternationalS class.
 * UG_Student is concrete element representing undergraduate international students in the support system and it also implements InternationalS class.
-* 
+* The ISS_System class manages a list of international students and provides support to all students using a support visitor. It includes methods to add students to the system and provide support to students.
