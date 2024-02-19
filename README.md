@@ -1,1 +1,3 @@
-# SWEN732-HW7
+# International Student Support System
+
+The International Student Support System is a program with a java foundation created to offer several kinds of assistance to foreign students enrolled in a university. The system maintains an adaptable and extensible structure by implementing various support functionalities through the use of the Visitor design pattern. The system provides help with a number of aspects of life for international students, such as learning a new language, academic guidance, cultural adjustment, and immigration processes. Using the Visitor design pattern, the solution makes it possible to add new support types with ease without having to change the international student classes by separating the support functions from the classes. The system's architecture encourages flexibility and scalability by making it possible to add additional support services and classes for overseas students with minimal changes to the current codebase.
